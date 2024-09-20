@@ -1,4 +1,4 @@
-# set up the environment
+# Set up the environment
 1. create python environment 
 conda create -n py39 python=3.9  
 2. install required packages
